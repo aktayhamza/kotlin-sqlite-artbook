@@ -1,7 +1,7 @@
-                                                              # kotlin-sqlite-artook
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                               
+# kotlin-sqlite-artook
+----------------------
 
-                                                        Basic Artbook app example with SQLite!
+Basic Artbook app example with SQLite!
 
 
 ![template1](https://user-images.githubusercontent.com/84986629/145851719-4f6b45fb-ad5b-4b0a-aca0-cc0ba6e94195.jpg)
